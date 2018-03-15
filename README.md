@@ -1,1 +1,3 @@
-# algoritmo-genetico
+# Algorítmo Genético
+
+Projeto de estudos sobre algotítmos genéticos.
